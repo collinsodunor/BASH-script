@@ -7,4 +7,6 @@ x=1+2
 
 subtract
 
-multiplication:
+multiplication
+
+division
