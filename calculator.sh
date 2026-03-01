@@ -9,4 +9,4 @@ subtract
 
 multiplication
 
-divisio
+division
