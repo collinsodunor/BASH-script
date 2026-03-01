@@ -11,4 +11,5 @@ multiplication
 
 division
 
-exponential
+
+seaborn
