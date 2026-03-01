@@ -12,4 +12,4 @@ multiplication
 division
 
 exponential
-exponential
+exp
