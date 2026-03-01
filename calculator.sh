@@ -11,4 +11,4 @@ multiplication
 
 division
 
-
+exponential
